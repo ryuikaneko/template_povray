@@ -1,0 +1,1 @@
+povray -H1200 -W1600 +A deconfined_spinon.pov
